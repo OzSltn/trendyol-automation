@@ -10,7 +10,7 @@
 
 # FEATURES
 - Proje Java dilinde, Chrome tarayıcıda çalışmak üzere tasarlanmıştır.
-- Annotasyonlar için TestNG ve Assertionlar için JUnit kütüphanesi kullanılmıştır.
+- Annotasyonlar ve Assertionlar için TestNG kütüphanesi kullanılmıştır.
 - Bu projede login sayfasında ve ürün listeleme sayfasında filtreler üzerinde iki farklı test koşulmuştur.
 - Login testinde Excel verilerini okumak için Apache POI kütüphanesi kullanılmıştır. 
 - Testin gerçekleştirilebilmesi için credential.xlsx dosyasında 3. veri grubuna doğru kullanıcı bilgileri girilmelidir.
@@ -53,5 +53,5 @@
 <img src="screenshots/2024-03-26 14-49-34.png" alt="Screenshot 4" width="1000" height="500">
 <img src="screenshots/2024-03-26 14-49-41.png" alt="Screenshot 5" width="1000" height="500">
 <img src="screenshots/2024-03-26 14-49-44.png" alt="Screenshot 6" width="1000" height="500">
-<img src="screenshots/2024-03-19 16-50-34.png" alt="Screenshot 7" width="1000" height="500">
+<img src="screenshots/2024-03-26 14-49-46.png" alt="Screenshot 7" width="1000" height="500">
 
